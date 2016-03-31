@@ -12,7 +12,7 @@ Notes:
 
 1- Only the main files (e.g. *.h and *.cpp ) have been commited in the repository. This has been done based on the standard format of gitignore for visual studio (see https://github.com/github/gitignore/blob/master/VisualStudio.gitignore).
 
-2- You need to copy folder "csv_fils" in a directory in your own pc. Next, you need to specify the address of this directory in functions "readIniSlopes()", "readFinalSlopes()", "storeSlopes()"  in the file adpProject/adp.cpp. 
-A same procedure should be done in the main file adpProject/adp.cpp for the csv file "policyInfo.csv" in folder "csv_fils". 
+2- You need to copy folder "csv_fils" in a directory in your own pc. Next, you need to specify the address of this directory in functions "readIniSlopes()", "readFinalSlopes()", "storeSlopes()"  used in the file adpProject/adp.cpp . 
+A same procedure should be done in the main file adpProject/adp.cpp for the csv file csv_fils/policyInfo.csv . 
 
 3- Results of numerical experiments in the paper have been reported as csv files in folder "paper_results".
