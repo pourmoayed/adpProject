@@ -48,7 +48,7 @@ numPigsSecs$secLabel[numPigsSecs$secLabel==2]<-"Section 3"
 # numPigsSecsTr<-numPigsSecs 
 
 # High transportation cost
-# numPigsSecsNew <-read.csv2("numPigsSecs.csv")
+# numPigsSecsNew <-read.csv2("high_transport_cost/numPigsSecs.csv")
 # numPigsSecsNew <-numPigsSecsNew[139:285,]
 # numPigsSecsTr$totalCullHigh<-numPigsSecsNew$totalCull
 # rm(numPigsSecsNew)
